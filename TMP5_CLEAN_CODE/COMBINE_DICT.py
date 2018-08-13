@@ -186,6 +186,38 @@ def main():
     # ['model_2589' 'c_1' 'c_2' 'c_2' 'c_8' '0.9762' '0.07942703']
     # ['model_2998' 'c_1' 'c_7' 'c_10' 'c_8' '0.976' '0.08009651']]
 
+    '''3 mnist '''
+    # c_8, c_9, c_8, c_9 not decisive
+    # total ep: 3800 : 2000/1000/800 exp: 50
+    # file_type = "MNIST/"
+    # main_folder = "MNIST_GPU_UPDATE_EXP/"
+    # main_file = "mnist_model_dict.csv"
+    # initial_episode = 2000
+    # Last model is :  ['model_3517', 'm_2', 'c_9', 'c_9', 'c_9', '0.9326', '0.22246318']
+    # Mean of initial:  2000  is -->  0.968884249999998
+    # The list of top  5  are as follows:
+    # [['model_2074' 'c_1' 'c_4' 'c_5' 'm_1' '0.9759' '0.08084566']
+    # ['model_3389' 'c_4' 'c_2' 'c_12' 'm_1' '0.9759' '0.07729348']
+    # ['model_2534' 'c_7' 'c_5' 'c_4' 'm_2' '0.9758' '0.07847521']
+    # ['model_2080' 'c_4' 'c_4' 'c_4' 'c_3' '0.9757' '0.080006644']
+    # ['model_2352' 'c_7' 'c_10' 'c_10' 'c_8' '0.9757' '0.07875745']]
+
+    '''4 mnist '''
+    # c_5, c_8, c_5, c_1
+    # total ep: 3800 : 2000/1000/800 exp: 50 periodically
+    file_type = "MNIST/"
+    main_folder = "MNIST_GPU_UPDATE_EXP_PERIOD/"
+    main_file = "mnist_model_dict.csv"
+    initial_episode = 2000
+    # Last model is :  ['model_3110', 'c_5', 'c_8', 'c_11', 'm_1', '0.9728', '0.08856994']
+    # Mean of initial:  2000  is -->  0.968884249999998
+    # The list of top  5  are as follows:
+    # [['model_2625' 'c_8' 'c_5' 'c_3' 'c_1' '0.976' '0.08027729']
+    #  ['model_2816' 'c_10' 'c_7' 'c_10' 'c_1' '0.976' '0.07784157']
+    #  ['model_2547' 'c_2' 'c_1' 'c_5' 'c_3' '0.9756' '0.08090415']
+    #  ['model_2612' 'c_5' 'c_8' 'c_5' 'c_8' '0.9755' '0.0773185']
+    #  ['model_2760' 'c_5' 'c_3' 'c_5' 'c_1' '0.9755' '0.08051262']]
+
 
     ''' DATASET = cifar-10 '''
 
