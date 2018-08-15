@@ -211,7 +211,21 @@ def main():
     DATASET = 'mnist'
     '''
 
+    # MNIST: MNIST_GPU_UPDATE_EXP
+    file_path = "/homes/nj2217/PROJECT/VISUALIZE_MODEL/FINISHED_MODEL/MNIST/MNIST_GPU_UPDATE_EXP/"
+    file = "episode_fixed_model.csv"
+    file = 'test.csv'
+    file_name = file_path + file
+    DATASET = 'mnist'
 
+    '''
+    # MNIST: MNIST_GPU_UPDATE_EXP_PERIOD
+    file_path = "/homes/nj2217/PROJECT/VISUALIZE_MODEL/FINISHED_MODEL/MNIST/MNIST_GPU_UPDATE_EXP_PERIOD/"
+    file = "episode_fixed_model.csv"
+    # file = 'test.csv'
+    file_name = file_path + file
+    DATASET = 'mnist'
+    '''
     '''
     #CIFAR-10: TMP_CODE
     file_path ="/homes/nj2217/PROJECT/VISUALIZE_MODEL/FINISHED_MODEL/CIFAR-10/TMP_CODE/"
@@ -243,9 +257,10 @@ def main():
     file = "COMPLETE_CIFAR10_modified.csv"
     file_name = file_path + file
     DATASET = 'cifar10'
+    '''
+
     data = get_data_from_csv(file_name)
     data = format_data_without_header(data)
-    '''
     list = compute_avg_data(data,criteria)
     # create_area_chart(data,criteria,list,DATASET)
 

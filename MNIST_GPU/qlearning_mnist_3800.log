@@ -1,0 +1,3037 @@
+num_interval:  38
+[2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000, 3100, 3200, 3300, 3400, 3500, 3600, 3700, 3800, 3900, 4000, 4100, 4200, 4300, 4400, 4500, 4600, 4700, 4800, 4900, 5000, 5100, 5200, 5300, 5400, 5500, 5600, 5700]
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.933, 'loss': 0.22119191, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3024  : #########################
+
+
+
+
+['model_3024', 'm_2', 'c_8', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['m_2', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3303  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_6', 's']
+$$$$$$$$$$$$$$ EPISODE:  3304  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'm_1', 'c_7']
+$$$$$$$$$$$$$$ EPISODE:  3305  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9722, 'loss': 0.08849588, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3025  : #########################
+
+
+
+
+['model_3025', 'c_6', 'c_8', 'c_5', 'c_6', 'Unknown', 'Unknown']
+['c_6', 'c_8', 'c_5', 'c_6']
+$$$$$$$$$$$$$$ EPISODE:  3306  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_4', 'c_5', 'm_3']
+$$$$$$$$$$$$$$ EPISODE:  3307  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3308  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_9']
+$$$$$$$$$$$$$$ EPISODE:  3309  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_2', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3310  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_10', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3311  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_7', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3312  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9743, 'loss': 0.08235364, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3026  : #########################
+
+
+
+
+['model_3026', 'c_7', 'c_5', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_7', 'c_5', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3313  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_7', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3314  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_5', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3315  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3316  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9733, 'loss': 0.08592672, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3027  : #########################
+
+
+
+
+['model_3027', 'c_5', 'c_10', 'c_8', 'c_3', 'Unknown', 'Unknown']
+['c_5', 'c_10', 'c_8', 'c_3']
+$$$$$$$$$$$$$$ EPISODE:  3317  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3318  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3319  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9723, 'loss': 0.0877499, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3028  : #########################
+
+
+
+
+['model_3028', 'c_6', 'c_8', 'c_5', 'c_7', 'Unknown', 'Unknown']
+['c_6', 'c_8', 'c_5', 'c_7']
+$$$$$$$$$$$$$$ EPISODE:  3320  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9735, 'loss': 0.085061595, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3029  : #########################
+
+
+
+
+['model_3029', 'c_7', 'c_2', 'c_8', 'c_1', 'Unknown', 'Unknown']
+['c_7', 'c_2', 'c_8', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3321  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3322  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9512, 'loss': 0.16121079, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3030  : #########################
+
+
+
+
+['model_3030', 'c_6', 'm_1', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_6', 'm_1', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3323  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_11', 'm_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3324  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_2', 'c_5', 'c_9']
+$$$$$$$$$$$$$$ EPISODE:  3325  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'm_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3326  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'm_1', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3327  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9749, 'loss': 0.08282863, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3031  : #########################
+
+
+
+
+['model_3031', 'c_5', 'c_9', 'c_3', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'c_9', 'c_3', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3328  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9735, 'loss': 0.085495204, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3032  : #########################
+
+
+
+
+['model_3032', 'c_9', 'c_8', 'c_4', 'c_1', 'Unknown', 'Unknown']
+['c_9', 'c_8', 'c_4', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3329  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 's']
+$$$$$$$$$$$$$$ EPISODE:  3330  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3331  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'm_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3332  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9729, 'loss': 0.08368506, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3033  : #########################
+
+
+
+
+['model_3033', 'c_1', 'c_2', 'c_4', 'c_5', 'Unknown', 'Unknown']
+['c_1', 'c_2', 'c_4', 'c_5']
+$$$$$$$$$$$$$$ EPISODE:  3333  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9732, 'loss': 0.085794374, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3034  : #########################
+
+
+
+
+['model_3034', 'c_5', 'c_8', 'c_1', 'c_7', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_1', 'c_7']
+$$$$$$$$$$$$$$ EPISODE:  3334  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9331, 'loss': 0.22411413, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3035  : #########################
+
+
+
+
+['model_3035', 'm_2', 'c_8', 'c_6', 'c_1', 'Unknown', 'Unknown']
+['m_2', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3335  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['s']
+$$$$$$$$$$$$$$ EPISODE:  3336  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9722, 'loss': 0.08331451, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3036  : #########################
+
+
+
+
+['model_3036', 'c_3', 'c_8', 'c_5', 'c_3', 'Unknown', 'Unknown']
+['c_3', 'c_8', 'c_5', 'c_3']
+$$$$$$$$$$$$$$ EPISODE:  3337  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3338  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3339  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9721, 'loss': 0.084431425, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3037  : #########################
+
+
+
+
+['model_3037', 'c_1', 'c_8', 'c_5', 'c_3', 'Unknown', 'Unknown']
+['c_1', 'c_8', 'c_5', 'c_3']
+$$$$$$$$$$$$$$ EPISODE:  3340  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3341  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9621, 'loss': 0.12868586, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3038  : #########################
+
+
+
+
+['model_3038', 'c_5', 'c_11', 'm_2', 'm_3', 'Unknown', 'Unknown']
+['c_5', 'c_11', 'm_2', 'm_3']
+$$$$$$$$$$$$$$ EPISODE:  3342  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.975, 'loss': 0.08154595, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3039  : #########################
+
+
+
+
+['model_3039', 'c_5', 'c_8', 'c_6', 'c_11', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_6', 'c_11']
+$$$$$$$$$$$$$$ EPISODE:  3343  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3344  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_6', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3345  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9735, 'loss': 0.084072776, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3040  : #########################
+
+
+
+
+['model_3040', 'c_8', 'c_8', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_8', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3346  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3347  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3348  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3349  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['s']
+$$$$$$$$$$$$$$ EPISODE:  3350  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3351  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9725, 'loss': 0.084996775, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3041  : #########################
+
+
+
+
+['model_3041', 'c_5', 'c_8', 'c_12', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_12', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3352  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_6', 'c_8', 'c_5', 'c_6']
+$$$$$$$$$$$$$$ EPISODE:  3353  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_5', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3354  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3355  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_10', 'c_3', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3356  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3357  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9727, 'loss': 0.08787311, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3042  : #########################
+
+
+
+
+['model_3042', 'c_9', 'c_12', 'c_3', 'c_1', 'Unknown', 'Unknown']
+['c_9', 'c_12', 'c_3', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3358  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9735, 'loss': 0.08561908, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3043  : #########################
+
+
+
+
+['model_3043', 'c_5', 'c_12', 'c_1', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'c_12', 'c_1', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3359  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3360  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9709, 'loss': 0.085983515, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3044  : #########################
+
+
+
+
+['model_3044', 'c_5', 'c_4', 'c_5', 'c_4', 'Unknown', 'Unknown']
+['c_5', 'c_4', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3361  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3362  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3363  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3364  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3365  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_3', 'c_8', 'c_5', 's']
+$$$$$$$$$$$$$$ EPISODE:  3366  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3367  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9725, 'loss': 0.08153914, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3045  : #########################
+
+
+
+
+['model_3045', 'c_9', 'c_4', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_9', 'c_4', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3368  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_6', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3369  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3370  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3371  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9736, 'loss': 0.08163227, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3046  : #########################
+
+
+
+
+['model_3046', 'c_3', 'c_4', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_3', 'c_4', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3372  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['s']
+$$$$$$$$$$$$$$ EPISODE:  3373  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9321, 'loss': 0.22180374, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3047  : #########################
+
+
+
+
+['model_3047', 'm_2', 'c_8', 'c_5', 'm_3', 'Unknown', 'Unknown']
+['m_2', 'c_8', 'c_5', 'm_3']
+$$$$$$$$$$$$$$ EPISODE:  3374  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.8585, 'loss': 0.453345, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3048  : #########################
+
+
+
+
+['model_3048', 'm_3', 'c_8', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['m_3', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3375  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_7', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3376  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9611, 'loss': 0.13226277, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3049  : #########################
+
+
+
+
+['model_3049', 'c_5', 'c_8', 'm_1', 'c_9', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'm_1', 'c_9']
+$$$$$$$$$$$$$$ EPISODE:  3377  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 's']
+$$$$$$$$$$$$$$ EPISODE:  3378  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_7', 's']
+$$$$$$$$$$$$$$ EPISODE:  3379  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_8']
+$$$$$$$$$$$$$$ EPISODE:  3380  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9353, 'loss': 0.21883762, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3050  : #########################
+
+
+
+
+['model_3050', 'm_1', 'c_5', 'c_10', 'c_1', 'Unknown', 'Unknown']
+['m_1', 'c_5', 'c_10', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3381  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_6', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3382  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_4', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3383  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9728, 'loss': 0.08420267, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3051  : #########################
+
+
+
+
+['model_3051', 'c_6', 'c_8', 'c_2', 'c_1', 'Unknown', 'Unknown']
+['c_6', 'c_8', 'c_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3384  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9618, 'loss': 0.12848336, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3052  : #########################
+
+
+
+
+['model_3052', 'c_5', 'c_2', 'm_2', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'c_2', 'm_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3385  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9734, 'loss': 0.08399305, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3053  : #########################
+
+
+
+
+['model_3053', 'c_1', 'c_12', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_1', 'c_12', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3386  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3387  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_5']
+$$$$$$$$$$$$$$ EPISODE:  3388  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_1', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3389  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_7', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3390  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['s']
+$$$$$$$$$$$$$$ EPISODE:  3391  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3392  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_2', 'c_8', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3393  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_5']
+$$$$$$$$$$$$$$ EPISODE:  3394  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_8']
+$$$$$$$$$$$$$$ EPISODE:  3395  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_11', 'c_9']
+$$$$$$$$$$$$$$ EPISODE:  3396  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9724, 'loss': 0.08489509, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3054  : #########################
+
+
+
+
+['model_3054', 'c_5', 'c_10', 'c_9', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'c_10', 'c_9', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3397  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_1', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3398  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 's']
+$$$$$$$$$$$$$$ EPISODE:  3399  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3400  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9747, 'loss': 0.07866225, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3055  : #########################
+
+
+
+
+['model_3055', 'c_1', 'c_8', 'c_5', 'c_12', 'Unknown', 'Unknown']
+['c_1', 'c_8', 'c_5', 'c_12']
+$$$$$$$$$$$$$$ EPISODE:  3401  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_4', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3402  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_3', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3403  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_4', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3404  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3405  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'm_2', 's']
+$$$$$$$$$$$$$$ EPISODE:  3406  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_7', 'm_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3407  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_1', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3408  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_1', 'c_8', 'c_5', 'm_3']
+$$$$$$$$$$$$$$ EPISODE:  3409  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_1', 'c_8', 'c_9', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3410  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_10', 'c_3', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3411  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 's']
+$$$$$$$$$$$$$$ EPISODE:  3412  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9727, 'loss': 0.08529255, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3056  : #########################
+
+
+
+
+['model_3056', 'c_5', 'c_6', 'c_3', 'c_5', 'Unknown', 'Unknown']
+['c_5', 'c_6', 'c_3', 'c_5']
+$$$$$$$$$$$$$$ EPISODE:  3413  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3414  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9729, 'loss': 0.08547425, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3057  : #########################
+
+
+
+
+['model_3057', 'c_5', 'c_9', 'c_4', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'c_9', 'c_4', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3415  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9737, 'loss': 0.081400335, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3058  : #########################
+
+
+
+
+['model_3058', 'c_12', 'c_8', 'c_6', 'c_1', 'Unknown', 'Unknown']
+['c_12', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3416  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9732, 'loss': 0.08308012, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3059  : #########################
+
+
+
+
+['model_3059', 'c_5', 'c_8', 'c_1', 'c_10', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_1', 'c_10']
+$$$$$$$$$$$$$$ EPISODE:  3417  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_11']
+$$$$$$$$$$$$$$ EPISODE:  3418  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9741, 'loss': 0.08227283, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3060  : #########################
+
+
+
+
+['model_3060', 'c_5', 'c_8', 'c_6', 'c_3', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_6', 'c_3']
+$$$$$$$$$$$$$$ EPISODE:  3419  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_11']
+$$$$$$$$$$$$$$ EPISODE:  3420  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9726, 'loss': 0.08721215, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3061  : #########################
+
+
+
+
+['model_3061', 'c_5', 'c_8', 'c_9', 'c_8', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_9', 'c_8']
+$$$$$$$$$$$$$$ EPISODE:  3421  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3422  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9722, 'loss': 0.08330505, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3062  : #########################
+
+
+
+
+['model_3062', 'c_8', 'c_8', 'c_8', 'c_7', 'Unknown', 'Unknown']
+['c_8', 'c_8', 'c_8', 'c_7']
+$$$$$$$$$$$$$$ EPISODE:  3423  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3424  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9746, 'loss': 0.08094979, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3063  : #########################
+
+
+
+
+['model_3063', 'c_5', 'c_8', 'c_2', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3425  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_9', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3426  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9732, 'loss': 0.086776495, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3064  : #########################
+
+
+
+
+['model_3064', 'c_5', 'c_10', 'c_5', 'c_4', 'Unknown', 'Unknown']
+['c_5', 'c_10', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3427  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_9', 'c_4', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3428  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3429  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3430  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_7', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3431  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9136, 'loss': 0.30476487, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3065  : #########################
+
+
+
+
+['model_3065', 'm_1', 'c_10', 's', '-', 'Unknown', 'Unknown']
+['m_1', 'c_10', 's']
+$$$$$$$$$$$$$$ EPISODE:  3432  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3433  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3434  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9737, 'loss': 0.0819718, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3066  : #########################
+
+
+
+
+['model_3066', 'c_12', 'c_8', 'c_1', 'c_1', 'Unknown', 'Unknown']
+['c_12', 'c_8', 'c_1', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3435  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_11']
+$$$$$$$$$$$$$$ EPISODE:  3436  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9744, 'loss': 0.07924317, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3067  : #########################
+
+
+
+
+['model_3067', 'c_5', 'c_8', 'c_12', 'c_4', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_12', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3437  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9729, 'loss': 0.08301956, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3068  : #########################
+
+
+
+
+['model_3068', 'c_5', 'c_7', 'c_7', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'c_7', 'c_7', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3438  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3439  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9739, 'loss': 0.085233465, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3069  : #########################
+
+
+
+
+['model_3069', 'c_4', 'c_8', 'c_5', 'm_2', 'Unknown', 'Unknown']
+['c_4', 'c_8', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3440  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3441  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.974, 'loss': 0.08009006, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3070  : #########################
+
+
+
+
+['model_3070', 'c_5', 'c_8', 'c_11', 'm_2', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_11', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3442  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'm_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3443  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_10', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3444  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_12', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3445  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_7', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3446  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'm_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3447  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_8', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3448  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'm_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3449  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9374, 'loss': 0.20523475, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3071  : #########################
+
+
+
+
+['model_3071', 'm_1', 'c_10', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['m_1', 'c_10', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3450  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_11', 'c_4', 'c_5', 'c_7']
+$$$$$$$$$$$$$$ EPISODE:  3451  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3452  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3453  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_7', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3454  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9595, 'loss': 0.14050473, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3072  : #########################
+
+
+
+
+['model_3072', 'c_3', 'm_3', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_3', 'm_3', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3455  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_4', 'c_8', 'c_8', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3456  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_11']
+$$$$$$$$$$$$$$ EPISODE:  3457  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_8', 's']
+$$$$$$$$$$$$$$ EPISODE:  3458  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9742, 'loss': 0.0800288, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3073  : #########################
+
+
+
+
+['model_3073', 'c_5', 'c_8', 'c_11', 'c_11', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_11', 'c_11']
+$$$$$$$$$$$$$$ EPISODE:  3459  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_4', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3460  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'm_3', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3461  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3462  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3463  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3464  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9738, 'loss': 0.08255448, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3074  : #########################
+
+
+
+
+['model_3074', 'c_5', 'c_8', 'c_3', 'm_1', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_3', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3465  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3466  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_1', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3467  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_12']
+$$$$$$$$$$$$$$ EPISODE:  3468  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 's']
+$$$$$$$$$$$$$$ EPISODE:  3469  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_2', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3470  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_10', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3471  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_11', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3472  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_5', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3473  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3474  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3475  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_8', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3476  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3477  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3478  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3479  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3480  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_11']
+$$$$$$$$$$$$$$ EPISODE:  3481  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3482  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9715, 'loss': 0.08747891, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3075  : #########################
+
+
+
+
+['model_3075', 'c_5', 'c_8', 'c_5', 'c_10', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_5', 'c_10']
+$$$$$$$$$$$$$$ EPISODE:  3483  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9729, 'loss': 0.08549201, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3076  : #########################
+
+
+
+
+['model_3076', 'c_5', 'c_2', 'c_3', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'c_2', 'c_3', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3484  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3485  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3486  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_3', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3487  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3488  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.932, 'loss': 0.21995865, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3077  : #########################
+
+
+
+
+['model_3077', 'm_1', 'c_8', 'c_5', 's', 'Unknown', 'Unknown']
+['m_1', 'c_8', 'c_5', 's']
+$$$$$$$$$$$$$$ EPISODE:  3489  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3490  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 's']
+$$$$$$$$$$$$$$ EPISODE:  3491  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 's']
+$$$$$$$$$$$$$$ EPISODE:  3492  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9739, 'loss': 0.08189633, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3078  : #########################
+
+
+
+
+['model_3078', 'c_5', 'c_4', 'c_5', 'm_2', 'Unknown', 'Unknown']
+['c_5', 'c_4', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3493  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_12', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3494  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3495  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3496  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.974, 'loss': 0.08316673, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3079  : #########################
+
+
+
+
+['model_3079', 'c_4', 'c_8', 'c_5', 'c_8', 'Unknown', 'Unknown']
+['c_4', 'c_8', 'c_5', 'c_8']
+$$$$$$$$$$$$$$ EPISODE:  3497  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_7', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3498  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_11', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3499  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_2', 'c_8', 'c_5', 'c_5']
+$$$$$$$$$$$$$$ EPISODE:  3500  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_6']
+$$$$$$$$$$$$$$ EPISODE:  3501  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3502  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_12', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3503  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3504  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3505  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3506  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_4', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3507  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_9', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3508  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3509  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'm_1', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3510  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9734, 'loss': 0.08596393, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3080  : #########################
+
+
+
+
+['model_3080', 'c_5', 'c_12', 'c_5', 'c_6', 'Unknown', 'Unknown']
+['c_5', 'c_12', 'c_5', 'c_6']
+$$$$$$$$$$$$$$ EPISODE:  3511  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3512  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_3', 'c_8', 'm_3', 'c_3']
+$$$$$$$$$$$$$$ EPISODE:  3513  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_3', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3514  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_4', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3515  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3516  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_8', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3517  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_11', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3518  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9483, 'loss': 0.1664791, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3081  : #########################
+
+
+
+
+['model_3081', 'c_5', 'm_2', 'c_6', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'm_2', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3519  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3520  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3521  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3522  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_6']
+$$$$$$$$$$$$$$ EPISODE:  3523  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_3', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3524  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_2', 's']
+$$$$$$$$$$$$$$ EPISODE:  3525  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'm_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3526  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9732, 'loss': 0.08562361, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3082  : #########################
+
+
+
+
+['model_3082', 'c_10', 'c_12', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_10', 'c_12', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3527  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_7']
+$$$$$$$$$$$$$$ EPISODE:  3528  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_11', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3529  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_8']
+$$$$$$$$$$$$$$ EPISODE:  3530  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_3', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3531  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3532  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9729, 'loss': 0.08302503, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3083  : #########################
+
+
+
+
+['model_3083', 'c_6', 'c_8', 'c_11', 'c_1', 'Unknown', 'Unknown']
+['c_6', 'c_8', 'c_11', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3533  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_1', 'c_8', 'c_10', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3534  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['s']
+$$$$$$$$$$$$$$ EPISODE:  3535  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3536  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_1', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3537  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 's']
+$$$$$$$$$$$$$$ EPISODE:  3538  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3539  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_3', 'c_8', 'c_5', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3540  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3541  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3542  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_12', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3543  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3544  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'm_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3545  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3546  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3547  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_3']
+$$$$$$$$$$$$$$ EPISODE:  3548  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9532, 'loss': 0.16047332, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3084  : #########################
+
+
+
+
+['model_3084', 'c_5', 'm_1', 'c_9', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'm_1', 'c_9', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3549  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3550  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9732, 'loss': 0.08510572, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3085  : #########################
+
+
+
+
+['model_3085', 'c_10', 'c_4', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_10', 'c_4', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3551  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_3', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3552  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3553  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3554  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9329, 'loss': 0.2224939, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3086  : #########################
+
+
+
+
+['model_3086', 'm_2', 'c_11', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['m_2', 'c_11', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3555  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_9', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3556  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_3', 'c_5', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3557  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3558  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3559  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'm_3', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3560  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9734, 'loss': 0.08555274, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3087  : #########################
+
+
+
+
+['model_3087', 'c_2', 'c_8', 'c_11', 'c_8', 'Unknown', 'Unknown']
+['c_2', 'c_8', 'c_11', 'c_8']
+$$$$$$$$$$$$$$ EPISODE:  3561  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3562  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9725, 'loss': 0.08737621, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3088  : #########################
+
+
+
+
+['model_3088', 'c_2', 'c_12', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_2', 'c_12', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3563  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9732, 'loss': 0.084497884, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3089  : #########################
+
+
+
+
+['model_3089', 'c_5', 'c_3', 'c_7', 'm_3', 'Unknown', 'Unknown']
+['c_5', 'c_3', 'c_7', 'm_3']
+$$$$$$$$$$$$$$ EPISODE:  3564  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9726, 'loss': 0.08271796, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3090  : #########################
+
+
+
+
+['model_3090', 'c_2', 'c_6', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_2', 'c_6', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3565  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9738, 'loss': 0.08017554, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3091  : #########################
+
+
+
+
+['model_3091', 'c_5', 'c_6', 'c_3', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'c_6', 'c_3', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3566  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3567  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3568  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3569  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9738, 'loss': 0.08509296, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3092  : #########################
+
+
+
+
+['model_3092', 'c_5', 'c_8', 'c_4', 'c_7', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_4', 'c_7']
+$$$$$$$$$$$$$$ EPISODE:  3570  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_3', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3571  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3572  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9728, 'loss': 0.08254187, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3093  : #########################
+
+
+
+
+['model_3093', 'c_4', 'c_5', 'c_5', 'c_4', 'Unknown', 'Unknown']
+['c_4', 'c_5', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3573  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_3', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3574  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9722, 'loss': 0.08498855, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3094  : #########################
+
+
+
+
+['model_3094', 'c_8', 'c_1', 'c_5', 'm_3', 'Unknown', 'Unknown']
+['c_8', 'c_1', 'c_5', 'm_3']
+$$$$$$$$$$$$$$ EPISODE:  3575  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9732, 'loss': 0.08132636, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3095  : #########################
+
+
+
+
+['model_3095', 'c_11', 'c_1', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_11', 'c_1', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3576  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3577  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_12']
+$$$$$$$$$$$$$$ EPISODE:  3578  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_11', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3579  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 's']
+$$$$$$$$$$$$$$ EPISODE:  3580  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['s']
+$$$$$$$$$$$$$$ EPISODE:  3581  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3582  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3583  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3584  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9725, 'loss': 0.084801756, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3096  : #########################
+
+
+
+
+['model_3096', 'c_5', 'c_8', 'c_5', 'c_2', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_5', 'c_2']
+$$$$$$$$$$$$$$ EPISODE:  3585  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_1', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3586  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3587  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_11', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3588  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9492, 'loss': 0.17388074, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3097  : #########################
+
+
+
+
+['model_3097', 'c_10', 'm_1', 'c_5', 'c_10', 'Unknown', 'Unknown']
+['c_10', 'm_1', 'c_5', 'c_10']
+$$$$$$$$$$$$$$ EPISODE:  3589  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.8582, 'loss': 0.4575629, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3098  : #########################
+
+
+
+
+['model_3098', 'm_3', 'c_8', 'c_9', 'c_1', 'Unknown', 'Unknown']
+['m_3', 'c_8', 'c_9', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3590  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_5']
+$$$$$$$$$$$$$$ EPISODE:  3591  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3592  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3593  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3594  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_7']
+$$$$$$$$$$$$$$ EPISODE:  3595  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_2']
+$$$$$$$$$$$$$$ EPISODE:  3596  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3597  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_3']
+$$$$$$$$$$$$$$ EPISODE:  3598  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3599  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9754, 'loss': 0.079460174, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3099  : #########################
+
+
+
+
+['model_3099', 'c_11', 'c_8', 'c_7', 'c_7', 'Unknown', 'Unknown']
+['c_11', 'c_8', 'c_7', 'c_7']
+$$$$$$$$$$$$$$ EPISODE:  3600  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3601  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3602  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3603  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3604  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_2', 'c_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3605  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'm_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3606  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3607  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9514, 'loss': 0.16680506, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3100  : #########################
+
+
+
+
+['model_3100', 'c_5', 'm_1', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'm_1', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3608  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'm_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3609  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_11', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3610  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3611  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3612  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9307, 'loss': 0.2225055, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3101  : #########################
+
+
+
+
+['model_3101', 'c_5', 'm_3', 'c_1', 'c_1', 'Unknown', 'Unknown']
+['c_5', 'm_3', 'c_1', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3613  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9736, 'loss': 0.082067035, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3102  : #########################
+
+
+
+
+['model_3102', 'c_1', 'c_8', 'c_7', 'c_1', 'Unknown', 'Unknown']
+['c_1', 'c_8', 'c_7', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3614  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_5', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3615  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3616  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3617  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_9']
+$$$$$$$$$$$$$$ EPISODE:  3618  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3619  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3620  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_6', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3621  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3622  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3623  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_11', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3624  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3625  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_9']
+$$$$$$$$$$$$$$ EPISODE:  3626  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3627  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_3', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3628  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3629  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_6', 'c_5', 'c_2']
+$$$$$$$$$$$$$$ EPISODE:  3630  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_12', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3631  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3632  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3633  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_12']
+$$$$$$$$$$$$$$ EPISODE:  3634  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3635  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3636  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3637  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3638  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3639  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3640  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3641  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3642  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3643  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3644  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.973, 'loss': 0.081294104, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3103  : #########################
+
+
+
+
+['model_3103', 'c_1', 'c_3', 'c_5', 'c_1', 'Unknown', 'Unknown']
+['c_1', 'c_3', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3645  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3646  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3647  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_11', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3648  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3649  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_4', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3650  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3651  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3652  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9592, 'loss': 0.14135695, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3104  : #########################
+
+
+
+
+['model_3104', 'c_7', 'c_8', 'm_1', 'c_9', 'Unknown', 'Unknown']
+['c_7', 'c_8', 'm_1', 'c_9']
+$$$$$$$$$$$$$$ EPISODE:  3653  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3654  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3655  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_8']
+$$$$$$$$$$$$$$ EPISODE:  3656  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3657  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3658  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_8', 'c_5', 'c_3']
+$$$$$$$$$$$$$$ EPISODE:  3659  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3660  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3661  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3662  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3663  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3664  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_3', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3665  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3666  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3667  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3668  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_4', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3669  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3670  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3671  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3672  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3673  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_3']
+$$$$$$$$$$$$$$ EPISODE:  3674  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3675  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3676  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3677  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3678  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3679  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3680  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_1', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3681  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9723, 'loss': 0.08456529, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3105  : #########################
+
+
+
+
+['model_3105', 'c_5', 'c_8', 'c_3', 'c_3', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_3', 'c_3']
+$$$$$$$$$$$$$$ EPISODE:  3682  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3683  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3684  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3685  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3686  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3687  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_12']
+$$$$$$$$$$$$$$ EPISODE:  3688  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.974, 'loss': 0.08574168, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3106  : #########################
+
+
+
+
+['model_3106', 'c_4', 'c_8', 'c_1', 'c_1', 'Unknown', 'Unknown']
+['c_4', 'c_8', 'c_1', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3689  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3690  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3691  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9715, 'loss': 0.08282113, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3107  : #########################
+
+
+
+
+['model_3107', 'c_11', 'c_8', 'c_5', 'c_2', 'Unknown', 'Unknown']
+['c_11', 'c_8', 'c_5', 'c_2']
+$$$$$$$$$$$$$$ EPISODE:  3692  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3693  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3694  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_6', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3695  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3696  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3697  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9723, 'loss': 0.087094866, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3108  : #########################
+
+
+
+
+['model_3108', 'c_5', 'c_12', 'c_5', 'c_2', 'Unknown', 'Unknown']
+['c_5', 'c_12', 'c_5', 'c_2']
+$$$$$$$$$$$$$$ EPISODE:  3698  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3699  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_4', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3700  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_9', 'c_8', 's']
+$$$$$$$$$$$$$$ EPISODE:  3701  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3702  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3703  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3704  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3705  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3706  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_11', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3707  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_4', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3708  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3709  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_4', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3710  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_1', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3711  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_11']
+$$$$$$$$$$$$$$ EPISODE:  3712  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_7', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3713  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3714  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3715  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.971, 'loss': 0.08835532, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3109  : #########################
+
+
+
+
+['model_3109', 'c_5', 'c_12', 'c_8', 'm_3', 'Unknown', 'Unknown']
+['c_5', 'c_12', 'c_8', 'm_3']
+$$$$$$$$$$$$$$ EPISODE:  3716  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3717  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3718  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3719  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3720  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3721  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3722  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_3']
+$$$$$$$$$$$$$$ EPISODE:  3723  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3724  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3725  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3726  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_6']
+$$$$$$$$$$$$$$ EPISODE:  3727  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'm_1', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3728  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3729  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3730  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_1', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3731  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3732  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_7']
+$$$$$$$$$$$$$$ EPISODE:  3733  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_1', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3734  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3735  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_1', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3736  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3737  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3738  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3739  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'm_2']
+$$$$$$$$$$$$$$ EPISODE:  3740  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_5', 'c_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3741  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3742  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3743  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3744  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_11', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3745  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_10', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3746  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3747  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_11', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3748  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 's']
+$$$$$$$$$$$$$$ EPISODE:  3749  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3750  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3751  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3752  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3753  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_6', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3754  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'm_2', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3755  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3756  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3757  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'm_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3758  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3759  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 's']
+$$$$$$$$$$$$$$ EPISODE:  3760  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_2', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3761  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3762  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_4']
+$$$$$$$$$$$$$$ EPISODE:  3763  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_8']
+$$$$$$$$$$$$$$ EPISODE:  3764  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3765  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3766  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3767  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3768  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'm_1', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3769  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3770  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_4', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3771  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3772  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'm_1', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3773  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3774  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3775  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['m_1', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3776  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+{'accuracy': 0.9728, 'loss': 0.08856994, 'global_step': 10000}
+
+####################### FINISIH TRAINING MODEL:  model_3110  : #########################
+
+
+
+
+['model_3110', 'c_5', 'c_8', 'c_11', 'm_1', 'Unknown', 'Unknown']
+['c_5', 'c_8', 'c_11', 'm_1']
+$$$$$$$$$$$$$$ EPISODE:  3777  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_6', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3778  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3779  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3780  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3781  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3782  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3783  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_3', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3784  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3785  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3786  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3787  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_4', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3788  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_5']
+$$$$$$$$$$$$$$ EPISODE:  3789  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3790  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3791  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3792  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3793  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3794  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 's']
+$$$$$$$$$$$$$$ EPISODE:  3795  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3796  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3797  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 'c_5', 'c_1']
+$$$$$$$$$$$$$$ EPISODE:  3798  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+['c_5', 'c_8', 's']
+$$$$$$$$$$$$$$ EPISODE:  3799  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Best accuracy:  {'Layer 1': ('c_5', 0.950865), 'Layer 2': ('c_8', 0.961276), 'Layer 3': ('c_5', 0.96603), 'Layer 4': ('c_1', 0.968492)}
+Avg accuracy:  {'Layer 1': 0.510719, 'Layer 2': 0.609062, 'Layer 3': 0.718021, 'Layer 4': 0.81773}
+best_topology:  {'Layer 1': ('c_5', 0.950865), 'Layer 2': ('c_8', 0.961276), 'Layer 3': ('c_5', 0.96603), 'Layer 4': ('c_1', 0.968492)}
