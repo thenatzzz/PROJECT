@@ -26,7 +26,7 @@ UPDATE_FROM_MEM_REPLAY = True
 
 LAYER_BIAS_ADJUSTMENT_RATE = 0.2
 
-cont_episode = 0
+cont_episode = 2587
 MAX_ACTION = 16
 MAX_STATE = 4
 MAX_NUM_LAYER = 4
@@ -91,9 +91,15 @@ EPSILON_DICT[NUM_LIST_1] = EPSILON_LIST_1
 EPSILON_DICT[NUM_LIST_2] = EPSILON_LIST_2
 EPSILON_DICT[NUM_LIST_3] = EPSILON_LIST_3
 
+INTERVAL = 100
+
 overall_space = (MAX_STATE, MAX_ACTION)
 Q_TABLE = np.zeros(overall_space)
-#Q_TABLE = np.asarray(Q_TABLE)
+Q_TABLE = [[0.207139,0.199159,0.188432,0.211803,0.347187,0.190786,0.180515,0.202294,0.200241,0.207643,0.212933,0.242653,0.130256,0.155434,0.13065,0.03467],\
+[0.353152,0.338902,0.374956,0.344367,0.280367,0.380686,0.350874,0.544179,0.349877,0.311311,0.347479,0.351579,0.349123,0.350359,0.30328,0.085537],\
+[0.59227,0.501803,0.579857,0.540474,0.727818,0.527373,0.574684,0.508328,0.498746,0.564884,0.530734,0.507432,0.471106,0.562951,0.514022,0.169051],\
+[0.879148,0.746423,0.741214,0.741945,0.746843,0.784267,0.766908,0.790674,0.7111,0.749905,0.73818,0.723312,0.766365,0.761378,0.740875,0.17177]]
+Q_TABLE = np.asarray(Q_TABLE)
 
 def get_file(dataset):
     global FILE
@@ -190,7 +196,7 @@ def update_qtable_from_mem_replay(data,num_model,dataset):
         action = 0
         num_layer = 0
         alpha = ALPHA_LIST[i]
-
+        # print(i)
         while Action(action).name != LAYER_SOFTMAX and num_layer < MAX_NUM_LAYER:
             action,value_action, index = choose_action_exp(data,num_layer,i,index)
             action_array.append(action)
@@ -209,10 +215,9 @@ def train_new_model(data,action_array,dataset):
     #print("______________________________________________________")
     #print("_________________ CANNOT FIND A MATCH ________________")
     #print("______________________________________________________")
-    num_model = NUM_MODEL_FROM_EXPERIENCE_REPLAY
-
-    if UPDATE_FROM_MEM_REPLAY:
-        update_qtable_from_mem_replay(data,num_model,dataset)
+    # num_model = NUM_MODEL_FROM_EXPERIENCE_REPLAY
+    # if UPDATE_FROM_MEM_REPLAY:
+    #     update_qtable_from_mem_replay(data,num_model,dataset)
     # return 1
 
     if dataset == "cifar10":
@@ -318,10 +323,26 @@ def save_finished_episode(episode_number,data,action_array):
 
     save_list_csv_rowbyrow(EPISODE_FILE, temp_array,'a')
 
+def create_exp_replay_interval():
+    temp_list = []
+    num_interval = MAX_EPISODE// INTERVAL
+    print("num_interval: ", num_interval)
+    for i in range(num_interval):
+        temp_list.append(INTERVAL*i + NUM_MODEL_1)
+    return temp_list
+
+def match_exp_replay_interval(episode_number,exp_replay_interval):
+    for i in range(len(exp_replay_interval)):
+        if episode_number == exp_replay_interval[i]:
+            return True
+
+    return False
+
 def run_q_learning(data,dataset):
 
     get_file(dataset)
-
+    exp_replay_interval = create_exp_replay_interval()
+    print(exp_replay_interval)
     for episode_number in range(cont_episode,MAX_EPISODE):
         action = 0
         num_layer = 0
@@ -346,11 +367,17 @@ def run_q_learning(data,dataset):
             num_layer += 1
         # print("ZZZZZZZ index ZZZZZZZZZZZZZ: ", index)
         print(action_array_1)
+
+        if UPDATE_FROM_MEM_REPLAY and match_exp_replay_interval(episode_number,exp_replay_interval):
+            num_model = NUM_MODEL_FROM_EXPERIENCE_REPLAY
+            # print("UPDATEEEEEEEEEEEEEEEEEEEEEE at episode number:", episode_number )
+            update_qtable_from_mem_replay(data,num_model,dataset)
+
         print("$$$$$$$$$$$$$$ EPISODE: ", episode_number, " $$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
         save_q_table(episode_number,Q_TABLE,dataset)
         data = update_data(data,dataset)
         save_finished_episode(episode_number,data,action_array_1)
-        #print(Q_TABLE)
+        # print(Q_TABLE)
         print('\n')
         # time.sleep(1)
     print("Best accuracy: ",get_best_action(Q_TABLE))
