@@ -46,7 +46,7 @@ if __name__ == "__main__":
     print("best_topology: ", best_topology)
     verify_model(best_topology,DATASET)
     '''
-    model = ['c_7','c_6','c_11','c_9']
+    model = ['c_12','c_6','c_11','c_11']
     # c_7,c_6,c_11,c_9
     DATASET = 'cifar10'
     # DATASET = 'mnist'
